@@ -10,5 +10,7 @@
 
 <h3 style="text-align:center;">What technology is used in the Alexa Wake Up Call?</h3>
 
+![alt tag](https://github.com/karledler/karledler.github.io/blob/master/Pics/illu_what_is-board.png)
+
 <p>The Alexa Wake Up Call uses AWS(Amazon Web Services), Arduino, IFTTT, and of course Amazon's Alexa!</p>
 
