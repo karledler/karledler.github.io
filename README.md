@@ -1,5 +1,5 @@
 <h1 style="text-align:center;">Alexa Wake Up Call</h1>
-![alt tag](https://github.com/karledler/karledler.github.io/blob/master/Pics/p1.JPG)
+<img>src=https://github.com/karledler/karledler.github.io/blob/master/Pics/p1.JPG</img>
 ![alt tag](https://github.com/karledler/karledler.github.io/blob/master/Pics/p2.JPG)
 ![alt tag](https://github.com/karledler/karledler.github.io/blob/master/Pics/p3.JPG)
 <h2 style="text-align:center;">Steph Manning  Joe Edler  Karl Edler</h2>
