@@ -14,3 +14,5 @@
 
 <p>The Alexa Wake Up Call uses AWS(Amazon Web Services), Arduino, IFTTT, and of course Amazon's Alexa!</p>
 
+![alt tag](https://github.com/karledler/Senior-Project/blob/master/Screenshots/SeniorProjectPoster.png)
+
