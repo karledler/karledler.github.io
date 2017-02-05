@@ -16,3 +16,4 @@
 
 ![alt tag](https://github.com/karledler/Senior-Project/blob/master/Screenshots/SeniorProjectPoster.png)
 
+<img> src=p1.jpg</img>
