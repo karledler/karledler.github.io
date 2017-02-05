@@ -1,5 +1,4 @@
-# Alexa Wake Up Call
-<h2 style="text-align:center;">This is heading 2</h2>
+<h1 style="text-align:center;">Alexa Wake Up Call</h1>
 ------------
 ## Steph Manning     Joe Edler     Karl Edler
 
