@@ -1,7 +1,6 @@
 <h1 style="text-align:center;">Alexa Wake Up Call</h1>
 ------------
-## Steph Manning     Joe Edler     Karl Edler
-
+<h2 style="text-align:center;">Steph Manning  Joe Edler  Karl Edler</h2>
 -------------
 
 ### What is the Alexa Wake Up Call?
